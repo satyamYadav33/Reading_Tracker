@@ -1,0 +1,5 @@
+{
+  "name": "Reading Tracker",
+  "description": "A mobile-optimized reading tracker app to manage your library, track reading progress, and take notes.",
+  "requestFramePermissions": []
+}
